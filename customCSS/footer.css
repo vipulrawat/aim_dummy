@@ -1,0 +1,66 @@
+/*VIPUL*/
+footer{
+    margin-top: 20px;
+    width: 100%;
+    height: 250px;
+}
+footer>.container{
+    background: lightgray;
+}
+
+.social{
+    letter-spacing: 5px;
+    color: gray;
+}
+.social:hover{
+  cursor: pointer;
+}
+
+/*sub-footer*/
+
+ .copyright { min-height:40px; background-color:#676767;}
+ .copyright p { text-align:left; color:#FFF; padding:10px 0; margin-bottom:0px;}
+ .heading7 { font-size:21px; font-weight:700; color:#d9d6d6; margin-bottom:22px;}
+ .post p { font-size:12px; color:#FFF; line-height:20px;}
+ .post p span { display:block; color:#8f8f8f;}
+ .bottom_ul { list-style-type:none; float:right; margin-bottom:0px;}
+ .bottom_ul li { float:left; line-height:40px;}
+ .bottom_ul li:after { content:"/"; color:#FFF; margin-right:8px; margin-left:8px;}
+ .bottom_ul li a { color:#FFF;  font-size:12px;}
+
+/*form-elements*/
+
+input,textarea{
+    width: 100%;
+    margin-top: 5px !important;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+#btn-send{
+    margin-top: 5px;
+}
+
+/*test area*/
+
+i{
+    margin-right: 10px;
+}
+#fb-icon:hover{
+    color: mediumblue;
+}
+#tw-icon:hover{
+    color: dodgerblue;
+}
+#lin-icon:hover{
+    color: darkslateblue;
+}
+.scrollToTop,.scrollToTop:active{
+  font-size: 20px !important;
+  text-decoration: none !important;
+}
+
+.scrollToTop:hover{
+  text-decoration: none;
+  color: skyblue;
+}
